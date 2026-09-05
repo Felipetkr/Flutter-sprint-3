@@ -7,7 +7,7 @@ MVP Android em Flutter para conectar nutrizes doadoras, bancos de leite humano, 
 - Projeto: latteConect
 - Equipe: latteConect
 - Integrantes atuais: Vitor Amorim, Felipe Takara e Lucas Campos Salles
-- Repositorio GitHub: https://github.com/Felipetkr/Kotlin-sprint-3.git
+- Repositorio GitHub: https://github.com/Felipetkr/Flutter-sprint-3.git
 
 ## Objetivo do aplicativo
 
